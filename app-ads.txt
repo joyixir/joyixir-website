@@ -1,0 +1,8 @@
+adtiming.com, 1997, DIRECT, bf66753b8f380142
+loopme.com, 11296, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+vyadd.com, 72567, RESELLER
+pubmatic.com, 159888, RESELLER, 5d62403b186f2ace
+
+google.com, pub-3313515664896857, DIRECT, f08c47fec0942fa0
