@@ -35,7 +35,8 @@ GAMES = [
     ("World of Words",'wow'),
     ("MalekAlKalamat",'wow'),
     ("Doctor Chem: Laboratory",'voodoo'),
-    ("Ice Sling",'voodoo')
+    ("Ice Sling",'voodoo'),
+    ("Quench Quest: Firefighter",'voodoo'),
 ]
 
 HOME_URL = "https://joyixir.com"
