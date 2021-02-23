@@ -39,7 +39,8 @@ GAMES = [
     ("Quench Quest: Firefighter",'voodoo'),
     ("Moving Crew", 'voodoo'),
     ("Hurry Party", 'lion'),
-    ("Moving Inc", 'lion')
+    ("Moving Inc", 'lion'),
+    ("Hospitaller: Cure the Patients", 'lion')
 ]
 
 HOME_URL = "https://joyixir.com"
