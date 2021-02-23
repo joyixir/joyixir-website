@@ -29,7 +29,7 @@
   <script src="https://unpkg.com/mustache@latest"></script>
   <script>
     function renderPolicyDetails() {
-      fetch('templates/policy_lion.mustache')
+      fetch('templates/policy_voodoo.mustache')
         .then((response) => response.text())
         .then((template) => {
           var rendered = Mustache.render(template, {
