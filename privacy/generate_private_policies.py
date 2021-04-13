@@ -40,7 +40,8 @@ GAMES = [
     ("Moving Crew", 'voodoo'),
     ("Hurry Party", 'lion'),
     ("Moving Inc", 'lion'),
-    ("Hospitaller: Cure the Patients", 'voodoo')
+    ("Hospitaller: Cure the Patients", 'voodoo'),
+    ("Bakery Chef 3D", 'voodoo'),
 ]
 
 HOME_URL = "https://joyixir.com"
