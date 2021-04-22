@@ -38,6 +38,7 @@ GAMES = [
     ("Ice Sling",'voodoo'),
     ("Quench Quest: Firefighter",'voodoo'),
     ("Moving Crew", 'voodoo'),
+    ("Farming Fantasy", 'voodoo')
 ]
 
 HOME_URL = "https://joyixir.com"
