@@ -29,11 +29,11 @@
   <script src="https://unpkg.com/mustache@latest"></script>
   <script>
     function renderPolicyDetails() {
-      fetch('templates/policy_lion.mustache')
+      fetch('templates/policy_voodoo.mustache')
         .then((response) => response.text())
         .then((template) => {
           var rendered = Mustache.render(template, {
-            name: 'Hurry Party',
+            name: 'Hospitaller: Cure the Patients',
             homepage_url: 'https://joyixir.com'
           });
           document.getElementById('target').innerHTML = rendered;

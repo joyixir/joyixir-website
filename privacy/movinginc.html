@@ -33,7 +33,7 @@
         .then((response) => response.text())
         .then((template) => {
           var rendered = Mustache.render(template, {
-            name: 'Hurry Party',
+            name: 'Moving Inc',
             homepage_url: 'https://joyixir.com'
           });
           document.getElementById('target').innerHTML = rendered;

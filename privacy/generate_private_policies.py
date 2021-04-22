@@ -6,7 +6,8 @@ policy_templates = {'voodoo': 'templates/policy_voodoo.mustache',
                     'other': 'templates/policy_other.mustache',
                     'wow': 'templates/policy_wow.mustache',
                     '4wheelers': 'templates/policy_4wheelers.mustache',
-                    'aurora': 'templates/policy_aurora.mustache'}
+                    'aurora': 'templates/policy_aurora.mustache',
+                    'lion': 'templates/policy_lion.mustache'}
 
 # add the new game at the end of this list
 GAMES = [
@@ -23,7 +24,6 @@ GAMES = [
     ("Magnet Master",'other'),
     ("Stack Dust 3D",'other'),
     ("Bump Rider",'other'),
-    ("Hurry Party",'other'),
     ("Billy Balance: Sniper",'other'),
     ("Dr. Florist",'other'),
     ("Captain Starla",'other'),
@@ -38,7 +38,11 @@ GAMES = [
     ("Ice Sling",'voodoo'),
     ("Quench Quest: Firefighter",'voodoo'),
     ("Moving Crew", 'voodoo'),
-    ("Farming Fantasy", 'voodoo')
+    ("Farming Fantasy", 'voodoo'),
+    ("Hurry Party", 'lion'),
+    ("Moving Inc", 'lion'),
+    ("Hospitaller: Cure the Patients", 'voodoo'),
+    ("Bakery Chef 3D", 'voodoo'),
 ]
 
 HOME_URL = "https://joyixir.com"
