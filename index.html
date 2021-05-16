@@ -29,6 +29,17 @@
   <! -- Adsense code -->
   <script data-ad-client="ca-pub-3313515664896857" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
+  <!-- captcha script -->
+  <script>
+	// javascript
+	window.onload = function() { 
+	  var el = document.getElementById('g-recaptcha-response'); 
+	  if (el) { 
+	    el.setAttribute('required', 'required'); 
+	  } 
+	}
+  </script>
+
   <!-- =======================================================
   * Template Name: DevFolio - v2.4.0
   * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
@@ -310,6 +321,7 @@
                           <div class="col-md-12 mb-3">
                             <div class="form-group">
                               <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+			      <input type="text" name="_gotcha" style="display:none" /> <!-- honeypot to bust the spammers! -->
                               <div class="validate"></div>
                             </div>
                           </div>
@@ -336,6 +348,7 @@
                             <div class="error-message"></div>
                             <div class="sent-message">Your message has been sent. Thank you!</div>
                           </div>
+			  <!-- <div class="g-recaptcha" data-sitekey="6LfpCc0aAAAAAJsPV6sm-Yn_izxfZFW58jh5ipoh"></div> --> 
                           <div class="col-md-12 text-center">
                             <button type="submit" class="button button-a button-big button-rouded">Send Message</button>
                           </div>
