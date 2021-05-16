@@ -17,7 +17,7 @@ GAMES = [
     ("Drag Master",'other'),
     ("Morning Routine 3D",'other'),
     ("Emoji Master",'other'),
-    ("Doctor Care",'other'),
+    ("Doctor Care",'voodoo'),
     ("Differences 3D",'other'),
     ("Kelimekolik",'other'),
     ("Willy Wild",'other'),
