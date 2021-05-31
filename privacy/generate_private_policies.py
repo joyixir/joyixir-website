@@ -44,6 +44,7 @@ GAMES = [
     ("Hospitaller: Cure the Patients", 'voodoo'),
     ("Bakery Chef 3D", 'voodoo'),
     ("Bakery Inc", 'voodoo'),
+    ("Athlete Transformers", 'voodoo')
 ]
 
 HOME_URL = "https://joyixir.com"
