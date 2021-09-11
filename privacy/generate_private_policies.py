@@ -46,7 +46,8 @@ GAMES = [
     ("Bakery Inc", 'voodoo'),
     ("Athlete Transformers", 'voodoo'),
     ("Celeb Guard", 'voodoo'),
-    ("Tetris run 3D : Block Popping", 'voodoo')
+    ("Tetris run 3D : Block Popping", 'voodoo'),
+    ("Satistype", 'voodoo')
 ]
 
 HOME_URL = "https://joyixir.com"
