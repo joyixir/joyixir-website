@@ -52,7 +52,8 @@ GAMES = [
     ("Psychiatric Clinic", 'voodoo'),
     ("Tugger Merge", 'voodoo'),
     ("Batguy", 'voodoo'),
-    ("Kong Cannon", 'voodoo')
+    ("Kong Cannon", 'voodoo'),
+    ("Kindergarten 3D", 'voodoo')
 ]
 
 HOME_URL = "https://joyixir.com"
