@@ -53,7 +53,8 @@ GAMES = [
     ("Tugger Merge", 'voodoo'),
     ("Batguy", 'voodoo'),
     ("Kong Cannon", 'voodoo'),
-    ("Kindergarten 3D", 'voodoo')
+    ("Kindergarten 3D", 'voodoo'),
+    ("Aqua Park Puzzle", 'voodoo')
 ]
 
 HOME_URL = "https://joyixir.com"
