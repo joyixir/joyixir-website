@@ -57,7 +57,8 @@ GAMES = [
     ("Aqua Park Puzzle", 'voodoo'),
     ("Tree Decorate", 'voodoo'),
     ("Art Of Clay", 'voodoo'),
-    ("Save Them All", 'voodoo')
+    ("Save Them All", 'voodoo'),
+    ("Soap Master 3D", 'voodoo')
 ]
 
 HOME_URL = "https://joyixir.com"
