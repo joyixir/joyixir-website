@@ -62,6 +62,7 @@ GAMES = [
     ("Flippy Fork", 'voodoo'),
     ("Candy Master", 'voodoo'),
     ("Tower Stack", 'voodoo'),
+    ("Tower Wiper", 'voodoo'),
 ]
 
 HOME_URL = "https://joyixir.com"
