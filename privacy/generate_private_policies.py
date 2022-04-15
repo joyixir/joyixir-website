@@ -7,7 +7,8 @@ policy_templates = {'voodoo': 'templates/policy_voodoo.mustache',
                     'wow': 'templates/policy_wow.mustache',
                     '4wheelers': 'templates/policy_4wheelers.mustache',
                     'aurora': 'templates/policy_aurora.mustache',
-                    'lion': 'templates/policy_lion.mustache'}
+                    'lion': 'templates/policy_lion.mustache',
+                    'boomhit': 'templates/policy_boomhit.mustache',}
 
 # add the new game at the end of this list
 GAMES = [
