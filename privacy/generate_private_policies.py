@@ -70,6 +70,7 @@ GAMES = [
     ("Pet Salon 3D", 'voodoo'),
     ("Delivery Run 3D", 'boomhit'),
     ("Bucket Race", 'voodoo'),
+    ("Fire It Up", 'voodoo'),
 ]
 
 HOME_URL = "https://joyixir.com"
