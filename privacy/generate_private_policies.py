@@ -71,6 +71,7 @@ GAMES = [
     ("Delivery Run 3D", 'boomhit'),
     ("Bucket Race", 'voodoo'),
     ("Fire It Up", 'voodoo'),
+    ("DIY iPear", 'voodoo'),
 ]
 
 HOME_URL = "https://joyixir.com"
