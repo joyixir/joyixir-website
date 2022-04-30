@@ -185,6 +185,13 @@ pangleglobal.com, 55199,DIRECT
 
 google.com, pub-3313515664896857, DIRECT, f08c47fec0942fa0
 
+telaria.com, rwd19-1125738, RESELLER, 1a4e959a1b50034a
+unity.com, 1125738, DIRECT, 96cabb5fbdde37a7
+admixplay.com, 2012, RESELLER
+google.com, pub-5884936481104896, RESELLER
+tremorhub.com, rwd19-1125738, RESELLER, 1a4e959a1b50034a
+bidease.com, exchange-20, RESELLER
+
 facebook.com, 1053498908850937, RESELLER, c3e20eee3f780d68
 facebook.com, 506289594308654, RESELLER, c3e20eee3f780d68
 facebook.com, 1969944106546187, RESELLER, c3e20eee3f780d68
