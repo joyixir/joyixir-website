@@ -74,6 +74,7 @@ GAMES = [
     ("DIY iPear", 'voodoo'),
     ("Candy Merge", 'voodoo'),
     ("Rescue ’em all", 'lion'),
+    ("Color Clash", 'lion'),
 ]
 
 HOME_URL = "https://joyixir.com"
