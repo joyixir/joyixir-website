@@ -75,7 +75,8 @@ GAMES = [
     ("Candy Merge", 'voodoo'),
     ("Rescue ’em all", 'lion'),
     ("Color Clash", 'lion'),
-    ("Kayak Run", 'lion')
+    ("Kayak Run", 'lion'),
+    ("Blocks vs. Balance", 'lion'),
 ]
 
 HOME_URL = "https://joyixir.com"
