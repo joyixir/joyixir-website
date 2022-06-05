@@ -8,7 +8,8 @@ policy_templates = {'voodoo': 'templates/policy_voodoo.mustache',
                     '4wheelers': 'templates/policy_4wheelers.mustache',
                     'aurora': 'templates/policy_aurora.mustache',
                     'lion': 'templates/policy_lion.mustache',
-                    'boomhit': 'templates/policy_boomhit.mustache',}
+                    'boomhit': 'templates/policy_boomhit.mustache',
+                    'moonee': 'templates/policy_moonee.mustache',}
 
 # add the new game at the end of this list
 GAMES = [
@@ -74,9 +75,9 @@ GAMES = [
     ("DIY iPear", 'voodoo'),
     ("Candy Merge", 'voodoo'),
     ("Rescue ’em all", 'lion'),
-    ("Color Clash", 'other'),
-    ("Kayak Run", 'other'),
-    ("Blocks vs. Balance", 'lion'),
+    ("Color Clash", 'moonee'),
+    ("Kayak Run", 'moonee'),
+    ("Blocks vs. Balance", 'moonee'),
 ]
 
 HOME_URL = "https://joyixir.com"

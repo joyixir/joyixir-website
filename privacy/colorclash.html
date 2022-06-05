@@ -30,7 +30,7 @@
   <script src="https://unpkg.com/mustache@latest"></script>
   <script>
     function renderPolicyDetails() {
-      fetch('templates/policy_other.mustache')
+      fetch('templates/policy_moonee.mustache')
         .then((response) => response.text())
         .then((template) => {
           var rendered = Mustache.render(template, {
