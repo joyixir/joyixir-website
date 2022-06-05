@@ -11,6 +11,7 @@
   engages thousands of people.">
   <meta content="" name="joyixir, joy, elixir, video games, game, games,
               mobile-games, studio, casual games, hc games, hyper-casual games">
+  <meta name="robots" content="noindex">
 
   <!-- Favicons -->
   <link href="../assets/img/favicon.png" rel="icon">
@@ -29,7 +30,7 @@
   <script src="https://unpkg.com/mustache@latest"></script>
   <script>
     function renderPolicyDetails() {
-      fetch('templates/policy_lion.mustache')
+      fetch('templates/policy_other.mustache')
         .then((response) => response.text())
         .then((template) => {
           var rendered = Mustache.render(template, {

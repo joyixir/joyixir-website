@@ -74,8 +74,8 @@ GAMES = [
     ("DIY iPear", 'voodoo'),
     ("Candy Merge", 'voodoo'),
     ("Rescue ’em all", 'lion'),
-    ("Color Clash", 'lion'),
-    ("Kayak Run", 'lion'),
+    ("Color Clash", 'other'),
+    ("Kayak Run", 'other'),
     ("Blocks vs. Balance", 'lion'),
 ]
 
