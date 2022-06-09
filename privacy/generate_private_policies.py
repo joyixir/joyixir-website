@@ -78,6 +78,7 @@ GAMES = [
     ("Color Clash", 'moonee'),
     ("Kayak Run", 'moonee'),
     ("Blocks vs. Balance", 'moonee'),
+    ("2048.io", 'moonee'),
 ]
 
 HOME_URL = "https://joyixir.com"
