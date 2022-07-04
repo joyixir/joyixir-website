@@ -20,7 +20,7 @@ GAMES = [
     ("Drag Master",'other'),
     ("Morning Routine 3D",'other'),
     ("Emoji Master",'other'),
-    ("Doctor Care",'voodoo'),
+    ("Doctor Care",'supersonic'),
     ("Differences 3D",'other'),
     ("Kelimekolik",'other'),
     ("Willy Wild",'other'),
@@ -81,6 +81,7 @@ GAMES = [
     ("Blocks vs. Balance", 'moonee'),
     ("2048.io", 'moonee'),
     ("Tap Battler", 'moonee'),
+    ("Draw Cook" , 'moonee')
 ]
 
 HOME_URL = "https://joyixir.com"
