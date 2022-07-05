@@ -81,7 +81,8 @@ GAMES = [
     ("Blocks vs. Balance", 'moonee'),
     ("2048.io", 'moonee'),
     ("Tap Battler", 'moonee'),
-    ("Draw Cook" , 'moonee')
+    ("Draw Cook" , 'moonee'),
+    ("Grand Mafia", 'supersonic')
 ]
 
 HOME_URL = "https://joyixir.com"
