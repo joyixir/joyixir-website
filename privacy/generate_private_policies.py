@@ -83,7 +83,8 @@ GAMES = [
     ("Tap Battler", 'moonee'),
     ("Draw Cook" , 'moonee'),
     ("Grand Mafia", 'supersonic'),
-    ("Pinball Crusher", 'supersonic')
+    ("Pinball Crusher", 'supersonic'),
+    ("Ant Colony", 'supersonic')
 ]
 
 HOME_URL = "https://joyixir.com"
