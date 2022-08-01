@@ -84,7 +84,8 @@ GAMES = [
     ("Draw Cook" , 'moonee'),
     ("Grand Mafia", 'supersonic'),
     ("Pinball Crusher", 'supersonic'),
-    ("Ant Colony", 'supersonic')
+    ("Ant Colony", 'supersonic'),
+    ("Destruction Company", 'supersonic')
 ]
 
 HOME_URL = "https://joyixir.com"
