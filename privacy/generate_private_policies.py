@@ -85,7 +85,9 @@ GAMES = [
     ("Grand Mafia", 'supersonic'),
     ("Pinball Crusher", 'supersonic'),
     ("Ant Colony", 'supersonic'),
-    ("Destruction Company", 'supersonic')
+    ("Destruction Company", 'supersonic'),
+    ("Rotix", 'supersonic')
+
 ]
 
 HOME_URL = "https://joyixir.com"
