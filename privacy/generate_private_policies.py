@@ -86,7 +86,8 @@ GAMES = [
     ("Pinball Crusher", 'supersonic'),
     ("Ant Colony", 'supersonic'),
     ("Destruction Company", 'supersonic'),
-    ("Rotix", 'supersonic')
+    ("Rotix", 'supersonic'),
+    ("WordGame", 'supersonic')
 
 ]
 
