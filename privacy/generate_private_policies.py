@@ -87,7 +87,8 @@ GAMES = [
     ("Ant Colony", 'supersonic'),
     ("Destruction Company", 'supersonic'),
     ("Rotix", 'supersonic'),
-    ("WordGame", 'supersonic')
+    ("WordGame", 'supersonic'),
+    ("Arrow Parkour 3D", 'supersonic')
 
 ]
 
