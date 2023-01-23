@@ -3,6 +3,7 @@ import os
 
 # choose from the already existing templates or create a new one
 policy_templates = {'voodoo': 'templates/policy_voodoo.mustache',
+                    'wordmasters': 'templates/policy_wordmasters.mustache',
                     'other': 'templates/policy_other.mustache',
                     'wow': 'templates/policy_wow.mustache',
                     '4wheelers': 'templates/policy_4wheelers.mustache',
@@ -89,8 +90,8 @@ GAMES = [
     ("Rotix", 'supersonic'),
     ("WordGame", 'supersonic'),
     ("Arrow Parkour 3D", 'supersonic'),
-    ("Shoot Ball Run", 'supersonic')
-
+    ("Shoot Ball Run", 'supersonic'),
+    ("Word Masters", 'wordmasters'),
 ]
 
 HOME_URL = "https://joyixir.com"
